@@ -51,4 +51,4 @@ By following lectures, completing assignments and quizzes, and reading the textb
 		* using examples, counter-examples, diagrams, simpler cases, similar problems, etc., to better understand a mathematical statement
 		* recognizing a broken proof or a false start and using it to find a new result or approach,
 		
-  - thinking critically about which proof paradigm is most appropriate.
+  	- thinking critically about which proof paradigm is most appropriate.
