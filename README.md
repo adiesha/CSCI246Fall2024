@@ -81,7 +81,10 @@ Textbook
 
 
 ## Instructor Office hours
-- TBD
+- Tuesday - 10:00AM-12:00PM
+- Friday - 11:00-12:00PM
+- Barnard 349
+
 
 
 ## Computer Science Success Center
