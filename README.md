@@ -88,7 +88,7 @@ Textbook
 ## Grading
 You will be graded on the following:
 
-- 11 homework assignments (lowest score dropped): 50%
+- 11 homework assignments (lowest score homework will be dropped out of 12 homeworks -- 11 homeworks will be used towards the final grade): 50%
 - 3 tests: in class (including final): 40%
 - In-class assignments (1 point for participating in each one, for up to 10 points total; there will be more than 10): 10%
 
