@@ -88,9 +88,9 @@ Textbook
 ## Grading
 You will be graded on the following:
 
-11 homework assignments (lowest score dropped): 50%
-3 tests: in class (including final): 40%
-In-class assignments (1 point for participating in each one, for up to 10 points total; there will be more than 10): 10%
+- 11 homework assignments (lowest score dropped): 50%
+- 3 tests: in class (including final): 40%
+- In-class assignments (1 point for participating in each one, for up to 10 points total; there will be more than 10): 10%
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
