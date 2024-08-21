@@ -85,7 +85,12 @@ Textbook
 - Friday - 11:00-12:00PM
 - Barnard 349
 
+## Grading
+You will be graded on the following:
 
+11 homework assignments (lowest score dropped): 50%
+3 tests: in class (including final): 40%
+In-class assignments (1 point for participating in each one, for up to 10 points total; there will be more than 10): 10%
 
 ## Computer Science Success Center
 - There are free tutors availble in Barnard 259. https://www.cs.montana.edu/student-success-center.html
@@ -109,3 +114,11 @@ By following lectures, completing assignments and quizzes, and reading the textb
 	* recognizing a broken proof or a false start and using it to find a new result or approach,
 	
 - thinking critically about which proof paradigm is most appropriate.
+
+## Accommodations
+If you have a documented disability and need or might need accommodations, please reach out the Office of Disability Services as soon as possible and then talk to me.
+
+## Collaboration policy
+- For your homework assignments, you may discuss the problem with your peers.
+- However, you are not allowed to copy proofs from your peers, use generative AI to complete your assignments.
+- You MUST not post the solutions of the homeworks on the internet.
