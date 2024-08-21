@@ -127,3 +127,15 @@ If you have a documented disability and need or might need accommodations, pleas
 - For your homework assignments, you may discuss the problem with your peers.
 - However, you are not allowed to copy proofs from your peers, use generative AI to complete your assignments.
 - You MUST not post the solutions of the homeworks on the internet.
+
+## Course survey and evaluation
+If you complete the course survey and evaluation and submit proof, you will get 0.75 bonus points.
+
+## Late assignment policies
+I cannot accomodate individual requests for extensions on assignments because of the class size. Therefore, there will be 12 assignments and lowest score will be dropped.
+- You are responsible for any announcements about assignments made in class, on Discord, on D2L, and here on the course website. You must pay attention to these announcements.
+- You can submit as many times as you would like, the TA will only grade your last submission.
+
+## Missing tests
+If you are going to miss a test, you need to discuss this prior to missing the class. Serious illness or a serious family emergency are valid reasons requiring an accommodation, but other reasons are not (travel, employement schedule conflict).
+
