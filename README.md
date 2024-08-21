@@ -135,6 +135,7 @@ If you complete the course survey and evaluation and submit proof, you will get 
 I cannot accomodate individual requests for extensions on assignments because of the class size. Therefore, there will be 12 assignments and lowest score will be dropped.
 - You are responsible for any announcements about assignments made in class, on Discord, on D2L, and here on the course website. You must pay attention to these announcements.
 - You can submit as many times as you would like, the TA will only grade your last submission.
+- If you submit within 24 hours of the due date, you get 25% off of the score you earn. If you submit within two days of the due date you get 50% off. Otherwise, no points are possible.
 
 ## Missing tests
 If you are going to miss a test, you need to discuss this prior to missing the class. Serious illness or a serious family emergency are valid reasons requiring an accommodation, but other reasons are not (travel, employement schedule conflict).
