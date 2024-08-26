@@ -75,9 +75,15 @@ Textbook
 * Connecting Discrete Mathematics and Computer Science by David Liben-Nowell. A free PDF version is available here: https://cs.carleton.edu/faculty/dln/book/ . You can buy the physical book if you like to do so. 
 
 ## Course Assistants
-- Name: TBA
-- Office hours: TBA
-- email: TBA
+1. 
+- Name: Gerard Shu Fuhnwi
+- Office hours: Tuesday 12pm-1pm, Fridays 1:10-2:10pm
+- email: gerard . shufuhnwi@ student .montana. edu (remove spaces)
+  
+2.															
+- Name: Sundas Iftikhar
+- Office hours: Monday 11:00 - 01:00 PM
+- email: sundasiftikhar @ montana. edu (remove spaces)
 
 
 ## Instructor Office hours
