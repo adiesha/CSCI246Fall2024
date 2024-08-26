@@ -78,12 +78,12 @@ Textbook
 1. 
 - Name: Gerard Shu Fuhnwi
 - Office hours: Tuesday 12pm-1pm, Fridays 1:10-2:10pm
-- email: gerard . shufuhnwi@ student .montana. edu (remove spaces)
+- email: gerard . shufuhnwi 'at' student .montana. edu (remove spaces, replace 'at' with @)
   
 2.															
 - Name: Sundas Iftikhar
 - Office hours: Monday 11:00 - 01:00 PM
-- email: sundasiftikhar @ montana. edu (remove spaces)
+- email: sundasiftikhar 'at' montana. edu (remove spaces, replace 'at' with @)
 
 
 ## Instructor Office hours
