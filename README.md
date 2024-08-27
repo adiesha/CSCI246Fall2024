@@ -6,7 +6,7 @@ The schedule is subject to change.
 | Week # 	| Date                          	| Lectrure topic                                                      	| Recommended reading     	| Homeword due 	|
 |--------	|-------------------------------	|---------------------------------------------------------------------	|-------------------------	|--------------	|
 | 1      	| Wednesday, August 21, 2024    	| Course intro and Syllabus                                           	|                         	|              	|
-| 1      	| Friday, August 23, 2024       	| Direct proofs; disproof by counter-example                          	| 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
+| 1      	| Friday, August 23, 2024       	| [Direct proofs; disproof by counter-example](https://github.com/adiesha/CSCI246Fall2024/tree/master/Notes/Lecture02)                          	| 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
 | 2      	| Monday, August 26, 2024       	| Proof by cases I                                                    	| 4.3,2.3                 	|              	|
 | 2      	| Wednesday, August 28, 2024    	| Proof by cases II                                                   	| 2.3                     	|              	|
 | 2      	| Friday, August 30, 2024       	| Introduction to sets                                                	| 2.3                     	|              	|
@@ -75,9 +75,15 @@ Textbook
 * Connecting Discrete Mathematics and Computer Science by David Liben-Nowell. A free PDF version is available here: https://cs.carleton.edu/faculty/dln/book/ . You can buy the physical book if you like to do so. 
 
 ## Course Assistants
-- Name: TBA
-- Office hours: TBA
-- email: TBA
+1. 
+- Name: Gerard Shu Fuhnwi
+- Office hours: Tuesday 12pm-1pm, Fridays 1:10-2:10pm
+- email: gerard . shufuhnwi 'at' student .montana. edu (remove spaces, replace 'at' with @)
+  
+2.															
+- Name: Sundas Iftikhar
+- Office hours: Monday 11:00 - 01:00 PM
+- email: sundasiftikhar 'at' montana. edu (remove spaces, replace 'at' with @)
 
 
 ## Instructor Office hours
