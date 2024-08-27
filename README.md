@@ -10,7 +10,7 @@ The schedule is subject to change.
 | 2      	| Monday, August 26, 2024       	| [Proof by cases](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture03/Lecture03_Proof_by_cases.pdf)                                                    	| 4.3,2.3                 	|              	|
 | 2      	| Wednesday, August 28, 2024    	| Proof by cases II                                                   	| 2.3                     	|              	|
 | 2      	| Friday, August 30, 2024       	| Introduction to sets                                                	| 2.3                     	|              	|
-| 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	| HW1          	|
+| 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	| [HW1](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/CSCI_246_HW_1.pdf), [Tex source](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/hw1.tex)          	|
 | 3      	| Wednesday, September 4, 2024  	| Sets II                                                             	| 2.3,9.2,2.4             	|              	|
 | 3      	| Friday, September 6, 2024     	| Sets III                                                            	| 2.3,9.2,2.5             	|              	|
 | 4      	| Monday, September 9, 2024     	| Proof by contradiction                                              	|                         	| HW2          	|
