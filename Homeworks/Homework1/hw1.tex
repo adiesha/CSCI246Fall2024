@@ -1,0 +1,154 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\title{CSCI-246 Discrete Structures HW1}
+\author{Adiesha Liyanage}
+\date{August 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding direct proofs, proof by cases, proof by counter example and propositions.
+    \item Mathematical definitions.
+    \item How to approach solving a problem.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem in a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 01 contains \textbf{3 questions}. \textbf{4th question is a bonus question.} You need to complete the first 3 questions to get full grade. You can try the 4th question for extra credit.
+
+\section{Q1}
+What are the \textbf{\textit{truth values}} of the following propositions? If you believe the claim is false, provide an counter example. (You don't need to write a formal proof for each of the sub-questions in Q1, If you think claim is correct, mention that it is True, if not provide an counter example) .
+\begin{enumerate}
+    \item [a]. $2^2 + 4^2 = 5^2$
+    \item [b]. The number $202$ is written $0001 0110 1101$ in binary.
+    \item [c]. $p \implies p$ ($p$ can be any proposition)
+    \item [d]. $p \implies q$ ($p,q$ can be any proposition.)
+    \item [e] If $x-y$ and $x$ are both rational, then $y$ is too.
+\end{enumerate}
+
+Grading Notes:
+While detailed rubric cannot be provided in advance as it would give away the solution, use the following direction to understand how the points are distributed for the problem.
+\begin{itemize}
+    \item Correctness
+    \begin{enumerate}
+        \item For Q1, you need to provide true or false as the solution, along with your explanation for falsity. If the truth value is incorrect, 0 points will be given.
+    \end{enumerate}
+        
+    \item Communication 
+        \begin{enumerate}
+            \item The counter example for false answer should be clear.
+        \end{enumerate}
+\end{itemize}
+
+
+\section{Q2}
+Prove that, if $x$ and $y$ are rational, then $x-y$ is also rational. \textbf{(You need to provide a formal proof for this).}
+
+Hint: Follow the same idea we talked about in the class when we proved $xy$ is rational when $x,y$ is rational. Use direct proof method.
+
+Grading Notes:
+While detailed rubric cannot be provided in advance as it would give away the solution, use the following direction to understand how the points are distributed for the problem.
+\begin{itemize}
+    \item Correctness
+    \begin{enumerate}
+        \item For Q2, If your proof is not correct, points will be docked. 
+        \item You need to clearly formulate your proof.
+        \item Regardless of your proof method, there will be some facts without which your proof would not work. These facts needs to be stated in your proof. If your proof jumps to conclusion without proper facts, then points will be docked.
+        \item Order of these facts must make sense. 
+    \end{enumerate}
+        
+    \item Communication 
+    \begin{enumerate}
+        \item You should follow the format that I taught you during the class, left hand side for the statements and right hand side for the reasoning. This would make the proof easier to grasp to the reader.
+        \item Do no skip too many steps at once. Since this is a fundamental class, at least in the first two homework you need to write all the steps in a proof. 
+    \end{enumerate}
+        
+\end{itemize}
+
+
+
+\section{Q3}
+Let $n$ be any integer. \textbf{Prove by cases} that $n^3-n$ is evenly divisible by $3$. \textbf{(You need to provide a formal proof for this).}
+
+
+Hint: Use proof by cases method to prove this claim.
+
+Grading Notes:
+While detailed rubric cannot be provided in advance as it would give away the solution, use the following direction to understand how the points are distributed for the problem.
+\begin{itemize}
+    \item Correctness
+    \begin{enumerate}
+        \item For Q3, If your proof is not correct, points will be docked. 
+        \item You need to clearly formulate your proof.
+        \item Regardless of your proof method, there will be some facts without which your proof would not work. These facts needs to be stated in your proof. If your proof jumps to conclusion without proper facts, then points will be docked.
+        \item Order of these facts must make sense. 
+    \end{enumerate}
+        
+    \item Communication 
+        \begin{enumerate}
+            \item You should follow the format that I taught you during the class, left hand side for the statements and right hand side for the reasoning. This would make the proof easier to grasp to the reader.
+            \item Do no skip too many steps at once. Since this is a fundamental class, at least in the first two homework you need to write all the steps in a proof. 
+        \end{enumerate}
+         
+\end{itemize}
+
+\section{Q4 (Bonus question -- optional)} 
+Prove that a positive integer $n$ is divisible by $5$ if and only if its last digit is $0$ or $5$. \textbf{(You need to provide a formal proof for this).}
+
+
+Hint: Any integer $n$ can be expressed using the digits of $n$ as $\langle a_k, a_{k-1}, a_{k-2}, \ldots , a_1, a_0 \rangle \in \{0,1,2,\dots, 9\}^{k+1}$ for some $k \geq 1$.
+\[ n = 10^ka_k + 10^{k-1}a_{k-1} + \cdots 10a_1 + a_0.\]
+
+Try different integers in this format. Then try to focus on what happens when you divide this expression by $5$. 
+
+
+Grading Notes:
+While detailed rubric cannot be provided in advance as it would give away the solution, use the following direction to understand how the points are distributed for the problem.
+\begin{itemize}
+    \item Correctness
+        \begin{enumerate}
+            \item For Q4, If your proof is not correct, points will be docked.
+            \item You need to clearly formulate your proof.
+            \item Regardless of your proof method, there will be some facts without which your proof would not work. These facts needs to be stated in your proof. If your proof jumps to conclusion without proper facts, then points will be docked.
+            \item Order of these facts must make sense. 
+        \end{enumerate}
+        \subitem  
+       
+    \item Communication 
+    \begin{enumerate}
+        \item You should follow the format that I taught you during the class, left hand side for the statements and right hand side for the reasoning. This would make the proof easier to grasp to the reader.
+        \item Do no skip too many steps at once. Since this is a fundamental class, at least in the first two homework you need to write all the steps in a proof.  
+    \end{enumerate}
+        
+\end{itemize}
+\end{document}
