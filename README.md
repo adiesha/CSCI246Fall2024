@@ -8,7 +8,7 @@ The schedule is subject to change.
 | 1      	| Wednesday, August 21, 2024    	| Course intro and Syllabus                                           	|                         	|              	|
 | 1      	| Friday, August 23, 2024       	| [Prepositions, Proof, Direct proofs](https://github.com/adiesha/CSCI246Fall2024/tree/master/Notes/Lecture02)                          	| 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
 | 2      	| Monday, August 26, 2024       	| [Proof by cases](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture03/Lecture03_Proof_by_cases.pdf)                                                    	| 4.3,2.3                 	|              	|
-| 2      	| Wednesday, August 28, 2024    	| Proof by cases II                                                   	| 2.3                     	|              	|
+| 2      	| Wednesday, August 28, 2024    	| [Proof by cases II](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture04/Lec4_Proof_ByCases_Part2.pdf)                                                   	| 2.3                     	|              	|
 | 2      	| Friday, August 30, 2024       	| Introduction to sets                                                	| 2.3                     	|              	|
 | 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	| [HW1](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/CSCI_246_HW_1.pdf), [Tex source](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/hw1.tex)          	|
 | 3      	| Wednesday, September 4, 2024  	| Sets II                                                             	| 2.3,9.2,2.4             	|              	|
