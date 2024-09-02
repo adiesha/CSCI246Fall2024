@@ -13,7 +13,7 @@ The schedule is subject to change.
 | 3      	| Monday, September 2, 2024     	| Labor day-No classes                                                	|                         	| [HW1](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/CSCI_246_HW_1.pdf), [Tex source](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/hw1.tex)          	|
 | 3      	| Wednesday, September 4, 2024  	| Sets II                                                             	| 2.3,9.2,2.4             	|              	|
 | 3      	| Friday, September 6, 2024     	| Sets III                                                            	| 2.3,9.2,2.5             	|              	|
-| 4      	| Monday, September 9, 2024     	| Proof by contradiction                                              	|                         	| HW2          	|
+| 4      	| Monday, September 9, 2024     	| Proof by contradiction                                              	|                         	| [HW2](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2_Latex.tex)          	|
 | 4      	| Wednesday, September 11, 2024 	| Proof by contradiction                                              	|                         	|              	|
 | 4      	| Friday, September 13, 2024    	| Proof by contradiction                                              	|                         	|              	|
 | 5      	| Monday, September 16, 2024    	| Propositinal logic                                                  	| 	3.1-3.3                 | HW3          	|
