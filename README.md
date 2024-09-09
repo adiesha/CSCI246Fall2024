@@ -16,7 +16,7 @@ The schedule is subject to change.
 | 4      	| Monday, September 9, 2024     	| [Sets IV](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture08/Sets_4.pdf)                                             	|                         	| [HW2](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2_Latex.tex)          	|
 | 4      	| Wednesday, September 11, 2024 	| Proof by contradiction                                              	|                         	|              	|
 | 4      	| Friday, September 13, 2024    	| Proof by contradiction                                              	|                         	|              	|
-| 5      	| Monday, September 16, 2024    	| Propositinal logic                                                  	| 	3.1-3.3                 | HW3          	|
+| 5      	| Monday, September 16, 2024    	| Propositinal logic                                                  	| 	3.1-3.3                 | [HW3](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework3/hw3.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework3/hw3_latex.tex)          	|
 | 5      	| Wednesday, September 18, 2024 	| Propositinal logic                                                  	| 	3.1-3.4                 |              	|
 | 5      	| Friday, September 20, 2024    	| Proofs by contrapositive + more proofs by contrapositive            	| 4.3                     	|              	|
 | 6      	| Monday, September 23, 2024    	| Introduction to predicate logic                                     	|                         	| HW4     	|
