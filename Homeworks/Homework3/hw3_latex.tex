@@ -1,0 +1,96 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\title{CSCI-246 Discrete Structures HW2}
+\author{Instructor: Adiesha Liyanage}
+\date{September 01 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding sets, direct proofs and Venn diagrams.
+    \item Mathematical definitions.
+    \item How to approach solving a problem.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem in a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+Rewrite following sets using set builder notation.
+
+\begin{enumerate}
+    \item S: Set of all integers that divisible by 2 or divisible by 3 but not both.
+    \item T: Set that contains integers that greater than $0$ or real numbers that are greater than 0.
+    \item M: Set of all months that starts with letter `A'. 
+    \item V: set of all vowels in English alphabet.
+    \item D: set of natural number up to 30 and divisible by 5
+\end{enumerate}
+
+Hint: Write these sets using set builder notation. In set builder notation, most important part is to write the rule for the arbitrary element. You should describe the arbitrary element using that rule. The rule that you have to write is basically a proposition that is true for any element in the set. 
+
+
+\section{Q2}
+\begin{enumerate}
+    \item Construct the truth table for $p \wedge q \implies p$
+    \item Construct the truth table for $\neg(\neg p \vee q) \implies (p \wedge q)$
+    \item Is $((p \wedge q)\implies r) \implies (p \implies (q \implies r))$ a tautology? \textbf{State your reasons.}
+    \item Is $(p \wedge q) \implies p$ a tautology? \textbf{State your reasons.}
+\end{enumerate}
+
+
+\section{Q3}
+Prove that $\mathcal{P}(A) \cup \mathcal{P}(B) \subseteq \mathcal{P}(A \cup B)$. Note that $\mathcal{P}(A)$ is the power set of the set $A$, which is the set of all subsets of $A$; that is $\mathcal{P}(A) = \{X: X \subseteq A\}$.
+
+Hint: We did a similar problem in the class, use that idea to prove that $A \subseteq B$.
+
+Grading Notes:
+While detailed rubric cannot be provided in advance as it would give away the solution, use the following direction to understand how the points are distributed for the problem.
+\begin{itemize}
+    \item Correctness
+    \begin{enumerate}
+        \item If your proof is not correct you will points will be docked. Regardless of the proof, there are some facts that has to be stated in your proof. If those facts are not stated, a reader will feel that there are holes in your proof. 
+        \item Moreover, order of the facts must make sense. 
+    \end{enumerate}
+        
+    \item Communication 
+        \begin{enumerate}
+            \item You should use statement and reasoning format for your proof. For example, you state your claim using mathematical statement or in English depending on the context, then immediately you state the reasoning why your statement is true.
+        \end{enumerate}
+\end{itemize}
+
+\section{Q4}
+Is it true that $\mathcal{P}(A) \cup \mathcal{P}(B) = \mathcal{P}(A \cup B)$. If this is not true, provide a counter example.
+
+\end{document}
