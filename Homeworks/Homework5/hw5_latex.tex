@@ -1,0 +1,73 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\title{CSCI-246 Discrete Structures HW 5}
+\author{Instructor: Adiesha Liyanage}
+\date{September 22 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding predicate logic and quantifiers
+    \item Mathematical definitions.
+    \item How to approach solving a problem.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem on a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+For the following claim, disprove this by proving a counterexample or provide a proof. Note that predicates $P,Q$ are defined on the set $S$. 
+
+\[\forall x \in S : [ P(x) \vee Q(x) ] \iff [\forall x \in S : P(x)] \vee [\forall x \in S : Q(x)]\]
+
+Hint 1: Note that $P, Q$ could be any predicate and $S$ could be any set. 
+
+Hint 2: Try this claim with different predicates. Specially, try isEven(x) and IsOdd(x) predicates defined on the set of Integers ($\mathds{Z}$).
+
+Hint 3: When you are trying to prove and if and only if statement, you need to prove both directions. For example, if you need to prove $p \iff q$, you need to prove $p \implies q$ and $q \implies p$. 
+
+
+\section{Q2} 
+Let $U$ be the set of all people. Let M(x) be the predicate where x is a student at MSU. Let F(X) be the predicate where x plays football. Let T(x) be the predicate where x plays Tennis. Let E(x) be the predicate where x earns money. Let P(x) be the predicate where x can punt. For each of the following, give an equivalent fully quantified expression. 
+
+\begin{enumerate}
+    \item Every football player who is a MSU student can play Tennis. 
+    \item Every football player can punt but not every basketball player can punt. 
+    \item Not everyone who plays Tennis earns money.
+    \item At least one student at MSU can play football, basketball and earn money.
+    \item All MSU students who can play basketball and tennis earn money.
+\end{enumerate}
+
+\end{document}
