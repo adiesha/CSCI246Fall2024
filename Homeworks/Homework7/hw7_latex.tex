@@ -1,0 +1,91 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\title{CSCI-246 Discrete Structures HW 7}
+\author{Instructor: Adiesha Liyanage}
+\date{October 14 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding relations.
+    \item Understanding properties of a relation.
+    \item Understanding the problem solving process.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem on a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+Suppose you are given three relations $R_1, R_2, R_3$ defined on the set $S = \mathbb{P}(\{0,1,2,3\})$. Note that $R_1,R_2,R_3 \subseteq S \times S$. For each of these relations determine whether:
+
+\begin{itemize}
+    \item it is reflexive, irreflexive, or neither,
+    \item it is symmetric, anti-symmetric, both, or neither,
+    \item it is transitive or not, and
+    \item all pairs of elements are comparable (that is, $\forall a \neq b \in S : (aRb \vee bRa))$.
+\end{itemize}
+
+\begin{enumerate}
+    \item $R_1 \subseteq S \times S$ such that $(A, B) \in R_1$ if (i) $A$ and $B$ are nonempty and the largest element in $A$ equals the largest element in $B$, or (ii) if $A = B = \emptyset$.
+
+    \item $R_2 \subseteq S \times S$ such that $(A, B) \in R_2$ if the sum of elements in $A$ is equal to the sum of elements in $B$. (Formally, $A\, R_2\,B \iff \sum_{x \in A} x =  \sum_{y \in B} y.$)
+
+    \item $R_3 \subseteq S \times S$ such that $(A,B) \in R_3$ if $A \cap B \neq \emptyset$.
+\end{enumerate}
+
+Hint: Write down the set $S$ and $S\times S$. Then try to see which elements in $S \times S$ are related to each other under $R_1, R_2, R_3$ relations.
+
+\section{Q2} 
+
+In this problem, you will learn some new definitions. Note that we can define the size of a relation to be the number of elements in the corresponding set. For example, consider the set $A = \{1, 2, 3, 4\}$ and the relation $R = \{\langle 2, 4\rangle, \langle4, 3\rangle, \langle4, 4\rangle\}$. We say that $|R| = 3$.
+
+We define the closure of a relation R with respect to some property as the smallest relation that includes everything from R but also has the property. To be precise:
+
+\begin{itemize}
+    \item The reflexive closure of a relation $R$ is the smallest possible $R' \supseteq R$ such that $R'$ is reflexive.
+    \item The symmetric closure of a relation $R$ is the smallest possible $R' \supseteq R$ such that $R'$ is symmetric.
+    \item The transitive closure of a relation $R$ is the smallest possible $R' \supseteq R$ such that $R'$ is transitive.
+\end{itemize}
+
+If R already has the property, then the closure is just $R$. For example, the reflexive closure of the $=$ relation on a set is just the $=$ relation, since $=$ is already reflexive.
+
+For the set $A$ and relation $R \subseteq A \times A$ given above, give the following:
+
+\begin{enumerate}
+    \item The reflexive closure of R.
+    \item The symmetric closure of R.
+    \item The transitive closure of R.
+\end{enumerate}
+\end{document}
