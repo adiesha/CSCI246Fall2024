@@ -28,10 +28,10 @@ The schedule is subject to change.
 | 8      	| Monday, October 7, 2024       	| Quiz 1 review                                                       	|                         	| [Hw6](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework6/hw6.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework6/hw6_latex.tex)          	|
 | 8      	| Wednesday, October 9, 2024    	| Quiz1                                                               	|                         	|              	|
 | 8      	| Friday, October 11, 2024      	| [Relations continued](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture21/Relations_cont.pdf)                                           	|                         	|              	|
-| 9      	| Monday, October 14, 2024      	| Relations                                                           	|                         	|              	|
+| 9      	| Monday, October 14, 2024      	| [Equivalance relations and equivalence classes](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture22/Equivalance_relations_and_classes.pdf)                                                           	|                         	|              	|
 | 9      	| Wednesday, October 16, 2024   	| Equivalance relations:partial and total order                       	|                         	|              	|
 | 9      	| Friday, October 18, 2024      	| Proofs by induction                                                 	|                         	| 		|
-| 10     	| Monday, October 21, 2024      	| Proof by induction …                                                	|                         	|          	|
+| 10     	| Monday, October 21, 2024      	| Proof by induction …                                                	|                         	| [HW7](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7.pdf), [latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7_latex.tex)         	|
 | 10     	| Wednesday, October 23, 2024   	| Recursively defined structures and   proofs by structural induction 	|                         	|              	|
 | 10     	| Friday, October 25, 2024      	| Introduction to graphs                                              	|                         	|              	|
 | 11     	| Monday, October 28, 2024      	| Proofs about graphs                                                 	|                         	|          	|
