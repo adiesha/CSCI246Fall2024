@@ -34,7 +34,7 @@ The schedule is subject to change.
 | 10     	| Monday, October 21, 2024      	| Proof by induction …                                                	|                         	| [HW7](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7.pdf), [latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7_latex.tex)         	|
 | 10     	| Wednesday, October 23, 2024   	| Recursively defined structures and   proofs by structural induction 	|                         	|              	|
 | 10     	| Friday, October 25, 2024      	| Introduction to graphs                                              	|                         	|              	|
-| 11     	| Monday, October 28, 2024      	| Proofs about graphs                                                 	|                         	|          	|
+| 11     	| Monday, October 28, 2024      	| Proofs about graphs                                                 	|                         	| [HW8](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework8/hw8.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework8/hw8_latex.tex)         	|
 | 11     	| Wednesday, October 30, 2024   	| special graphs                                                      	|                         	|              	|
 | 11     	| Friday, November 1, 2024      	| special graphs …                                                    	|                         	|              	|
 | 12     	| Monday, November 4, 2024      	| Paths, trees and cycles                                             	|                         	|              	|
