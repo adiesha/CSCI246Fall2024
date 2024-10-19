@@ -1,0 +1,108 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\title{CSCI-246 Discrete Structures HW 8}
+\author{Instructor: Adiesha Liyanage}
+\date{October 18 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding partial orders.
+    \item Understanding steps of a induction.
+    \item Understanding the problem solving process.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem on a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+List a partial order, strict partial order and a equivalence relation that you can create from the following set $A=\{0,1,2,3\}$.
+
+\section{Q2} 
+For a given integer $n \geq 0$, consider the sum of first $n$ cubes: $0^3 + 1^3 + 2^3 + \cdots + n^3$. You can write the sum of first $n$ cubes as $\sum_{i=0}^{n}i^3$. We can hypothesize that this sum of cubes of first $n$ natural numbers are $\sum_{i=0}^{n}i^3 = (\frac{n\cdot(n+1)}{2})^2$. 
+
+\begin{enumerate}
+    \item Show that this formula works for $0 \leq n \leq 3$. (This is very simple try to manually check the sum of cubes for $0 \leq n \leq 3$ and check whether you get the same value from the formula.)
+    \item Use mathematical induction to prove that this formula works for any integer $n \geq 0$.
+    
+    Hint: Try to model this problem into the induction framework that we learnt during the class. 
+    \begin{itemize}
+        \item define the predicate $P(n)$.
+        \item State the variable that you are performing the induction over.
+        \item State the base case.
+        \item prove the base case.
+        \item state the inductive case.
+        \item prove the inductive case.
+            \begin{itemize}
+                \item assume the inductive hypothesis $P(n-1)$
+                \item start with the \textbf{LHS} of the $P(n)$ and manipulate it to get the \textbf{RHS} (or vice versa.) \textbf{Do not start with }\textbf{LHS = RHS}.
+                \item fina a way to get the $P(n-1)$ in your algebra somewhere, so you can apply the inductive hypothesis.
+                \item correctly apply the inductive hypothesis.
+                \item clearly say that you have applied the inductive hypothesis.
+                \item Then derive the \textbf{RHS} of the $P(n)$ (if you starrt with the \textbf{LHS}) or \textbf{LHS} (if you start with the \textbf{RHS}).
+            \end{itemize}
+        \item Finish the proof by tying everything together.
+    \end{itemize}
+\end{enumerate}
+
+
+\section{Q3}
+Suppose you want to calculate the sum of first $n$ odd numbers. For example, the sum of first $3$ odd numbers would be $1 + 3 + 5 = 9$. We can label this sum as $\sum_{i=1}^{n} (2i - 1)$. We can hypothesize that this sum is equal to $n^2$.
+
+\begin{enumerate}
+    \item Show that this formula works for $1 \leq n \leq 3$. (This is simple, manually check whether the \textbf{LHS} and \textbf{RHS} of the claim is equal).
+    \item Use mathematical induction to prove that this formula is correct for $n \geq 1$.
+
+    Hint: Try to model this problem into the induction framework that we learnt during the class. 
+    \begin{itemize}
+        \item define the predicate $P(n)$.
+        \item State the variable that you are performing the induction over.
+        \item State the base case.
+        \item prove the base case.
+        \item state the inductive case.
+        \item prove the inductive case.
+            \begin{itemize}
+                \item assume the inductive hypothesis $P(n-1)$
+                \item start with the \textbf{LHS} of the $P(n)$ and manipulate it to get the \textbf{RHS} (or vice versa.) \textbf{Do not start with }\textbf{LHS = RHS}.
+                \item fina a way to get the $P(n-1)$ in your algebra somewhere, so you can apply the inductive hypothesis.
+                \item correctly apply the inductive hypothesis.
+                \item clearly say that you have applied the inductive hypothesis.
+                \item Then derive the \textbf{RHS} of the $P(n)$ (if you starrt with the \textbf{LHS}) or \textbf{LHS} (if you start with the \textbf{RHS}).
+            \end{itemize}
+        \item Finish the proof by tying everything together.
+    \end{itemize}
+\end{enumerate}
+
+\end{document}
