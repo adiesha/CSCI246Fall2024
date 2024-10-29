@@ -1,0 +1,98 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\title{CSCI-246 Discrete Structures HW 9}
+\author{Instructor: Adiesha Liyanage}
+\date{October 28 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding mathematical induction.
+    \item Understanding graph definitions.
+    \item Understanding the problem solving process.
+    \item Understanding summation notation.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem on a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+Write the following sequences using summation notation. (This is an easy question, don't try to complicate this. I am not asking to give an expression, I am asking you to write the sequences using summation notation.)
+
+\begin{itemize}
+    \item $0 + 3 + 6 + 9 + \cdots + 3\cdot i + \cdots + 3\cdot n.$ (Sum of the first $n+1$ natural numbers.)
+    \item $0^3 + 1^3 + 2^3 + \cdots + i^3 + \cdots + n^3.$ (Sum of the first $n+1$ cubes of natural numbers).
+    \item $2^2 + 4^2 + 6^2 + \cdots + (2i)^2 + \cdots + (2\cdot n)^2.$ (Sum of the squares of first $n$ even numbers starting at 2.)
+\end{itemize}
+
+\section{Q2} 
+Draw a graph with the nodes $V = \{1,2,\ldots, 9,10\}$, and edges between $x \in V$ and $y \in V$ if $x$ divides $y$. Does it make sense to use a directed or undirected graph? Is the graph that you have drawn simple?
+
+
+\section{Q3}
+In the class we looked at a property of an undirected graph $G=(V,E)$.
+\[\sum_{v \in V} deg(v) = 2\cdot |E|\]
+This property is known as \textbf{Handshaking Lemma}.
+
+Here we will try to prove this using induction. The task for you is to fill in the missing pieces of this proof.
+
+\textbf{Proof:} Here, I define the graph $G$ as a recursively defined structure. 
+
+Undirected Graph $G$ can be defined as follows:
+\begin{itemize}
+    \item Base case: Start with an graph with no edges and \textbf{any number of isolated vertices} (each with degree zero).
+    \item Recursive case: Add an edge between two vertices in the graph, updating the degrees of those two vertices.
+\end{itemize}
+
+Now that we have defined the undirected graph as a recursively defined structure, we can move to induction steps as follows:
+
+For any natural number $m \geq 0$, let predicate $P(m)$ be true if any graph $G=(V,E)$ with $m$ edges has the following property: $\sum_{v \in V} deg(v) = 2\cdot m$-- false otherwise. We show that $\forall m \geq 0: P(m)$ using mathematical induction over $m$.
+
+Base case: 
+
+\textbf{You have to fill the base case and the proof of base case here.}
+
+Inductive case:
+
+We want to show that $\forall m \geq 1: P(m-1) \implies P(m)$. For the inductive hypothesis we assume that $P(m-1)$ is true; that is, we assume that \textbf{any} undirected graph $G=(V,E)$ with $m-1$ edges has $\sum_{v \in V} deg(v) = 2\cdot (m-1)$. Now let $H=(W, F)$ be any graph with $m$ edges. We want to prove that $P(m)$ holds; that is, $\sum_{v \in W} deg(v) = 2\cdot m$.
+
+Let $\{u, w\}$ be any edge of $H$. Let us consider the graph $G$ constructed from $H$ by removing that one edge $\{u, w\}$ from $H$; that is, $G=(W, F \backslash \{\{u, w\}\})$ (basically $G$ is the graph that is obtained by removing the edge $\{u, w\}$). Note that we keep the same set of vertices; we only remove a single edge. For any vertex $v\in W$, let $deg_G(v)$ denote the degree of $v$ in graph $G$, and $deg_H(v)$ denote the degree in graph $H$, since these could be different once you remove the edge $\{u,w\}$.
+
+\textbf{Fill the rest of the proof of the inductive case here.}
+
+Since we showed that $P(0)$, and $\forall m \geq 1: P(m-1) \implies P(m)$, we can conclude that $\forall m \geq 0: P(m)$ using the principle of mathematical induction.
+
+
+\end{document}
