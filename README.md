@@ -41,10 +41,10 @@ The schedule is subject to change.
 | 12     	| Wednesday, November 6, 2024   	| [Paths, Cycles and Trees](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture32/Paths_Cycles_and_Trees.pdf)            |                         	|          	|
 | 12     	| Friday, November 8, 2024      	| [Introduction to probability and counting](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture33/Introduction_To_Probability_And_Counting.pdf)|                         	|              	|
 | 13     	| Monday, November 11, 2024     	| Veteran's day - No classes                                          	|                         	| [HW10](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework10/hw10.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework10/hw10_latex.tex)             	|
-| 13     	| Wednesday, November 13, 2024  	| Tree diagrams and choosing, Combinatorics and expected values                                   	|                         	|          	|
+| 13     	| Wednesday, November 13, 2024  	| [Tree diagrams and permutations](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture34/Tree_Diagrams_and_Permutations.pdf)                    	|                         	|          	|
 | 13     	| Friday, November 15, 2024     	| Quiz 2 review                                                       	|                         	|              	|
 | 14     	| Monday, November 18, 2024     	| Quiz 2                                                              	|                         	|              	|
-| 14     	| Wednesday, November 20, 2024  	| Introduction to analysis of algorithms                              	|                         	|         	|
+| 14     	| Wednesday, November 20, 2024  	| choosing, Combinatorics and expected values,Introduction to analysis of algorithms                              	|                         	|         	|
 | 14     	| Friday, November 22, 2024     	| Big O                                                               	|                         	|              	|
 | 15     	| Monday, November 25, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
