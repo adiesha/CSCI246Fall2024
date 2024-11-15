@@ -1,0 +1,80 @@
+\documentclass[12pt]{exam}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.8in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ dsfont }
+\usepackage{tikz}
+\title{CSCI-246 Discrete Structures HW 11}
+\author{Instructor: Adiesha Liyanage}
+\date{November 15 2024}
+
+\begin{document}
+
+\maketitle
+
+\hrulefill
+\\
+\\
+\textbf{Objective}
+\begin{itemize}
+    \item Understanding sum and product rules.
+    \item Understanding probability and random variables.
+    \item Understanding the problem solving process.
+\end{itemize}
+
+\textbf{Submission requirements}
+\begin{itemize}
+    \item \textbf{\textit{Type or clearly hand-write}} your solutions into a \textbf{\textit{PDF FORMAT.}} 
+    \item \textbf{\textit{DO NOT UPLOAD images.}}
+    \item \textbf{\textit{non-pdf or emailed solutions will not be graded.}}
+    \item \textbf{If you take pictures of your handwritten homework, put it into pdf format.}
+    \item \textbf{\textit{Start each problem on a new page.}}
+    \item Follow the model that you have learned during the lectures for proofs.
+    \item Do not wait until the last minute to submit the assignment.
+    \item You can submit any number of times before the deadline. 
+    \item If you are using latex, and you do not know how to type a symbol, use the following website. You can draw the symbol here and it will give you the latex code and the packages that you have to import. \url{https://detexify.kirelabs.org/classify.html}
+    \item If you are using latex to write the answer, you can use overleaf to make your life easier. \textbf{Overleaf is a free, online platform that helps users create and publish scientific and technical documents using LaTeX, a markup-based document preparation system}
+    \item If you do not understand a problem, ask questions during/after the lectures, or during office hours or via discord.
+    \item Go to TA office hours and talk with them and ask for help.
+    \item \textbf{\textit{Do not use generative AI to write answers.}} 
+\end{itemize}
+
+Homework 02 contains \textbf{3 questions}.
+
+\section{Q1}
+Suppose Inclusion-Exclusion for three sets $A,B,C$ is as following:
+\[|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B | - |A \cap C| - |B \cap C| + |A \cap B \cap C|\]
+
+\begin{enumerate}
+    \item Let $A = \{0,1,2,3,4\}, B = \{0,2,4,6\}, C = \{0,3,6\}$. Find the value of $A \cup B \cup C$ using inclusion-exclusion rule. \textbf{(You have to use the above rule)}.
+    \item Consider the words \textbf{ONE, TWO, THREE, FOUR, FIVE, SIX, SEVEN,} and \textbf{EIGHT.} Let $E$ be the set of these words containing at least one \textbf{E}, let $T$ be the words containing a \textbf{T}, and let $R$ be the words containing an \textbf{R}. Then, calculate $|E \cap T \cap R|$.
+\end{enumerate}
+
+\section{Q2} 
+In the United States, a text message can be sent either to a regular 10-digit phone number, or to a so-called short code which is a 5- or 6-digit number. Neither a phone number nor a short code can start with a 0 or a 1. How many different textable numbers are there in the United States?.
+
+Hint: Use the product rule.
+
+
+\section{Q3}
+Sam flips a fair coin $100$ times. Let the outcome be the number of heads that he sees.
+
+
+\begin{enumerate}
+    \item What is the sample space? (represent the sample space using sets).
+    \item For Sam's 100 flips, what is the $Pr[0]$ (What is the probability that you see 0 heads)?
+    \item For Sam's 100 flips, what is $Pr[50]$?
+    \item For Sam's 100 flips, what is $Pr[64]$?
+\end{enumerate}
+
+
+\section{Q4}
+Suppose John flips a fair coin $n$ times. What is the probability of the event "There are strictly more heads than tails" if $n=2$?
+\end{document}
