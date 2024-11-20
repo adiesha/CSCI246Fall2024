@@ -45,7 +45,7 @@ The schedule is subject to change.
 | 13     	| Friday, November 15, 2024     	| Quiz 2 review                                                       	|                         	|              	|
 | 14     	| Monday, November 18, 2024     	| Quiz 2                                                              	|                         	|              	|
 | 14     	| Wednesday, November 20, 2024  	| choosing, Combinatorics and expected values,Introduction to analysis of algorithms                              	|                         	|         	|
-| 14     	| Friday, November 22, 2024     	| Big O                                                               	|                         	|              	|
+| 14     	| Friday, November 22, 2024     	| Big O                                                               	|                         	| [HW 11](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11_latex.tex)             	|
 | 15     	| Monday, November 25, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Friday, November 29, 2024     	| Fall break - No classes                                             	|                         	|              	|
