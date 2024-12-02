@@ -45,14 +45,14 @@ The schedule is subject to change.
 | 13     	| Friday, November 15, 2024     	| Quiz 2 review                                                       	|                         	|              	|
 | 14     	| Monday, November 18, 2024     	| Quiz 2                                                              	|                         	|              	|
 | 14     	| Wednesday, November 20, 2024  	| [choosing, Combinatorics and expected values](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture37/Expected_value_and_n_choose_k.pdf)                              	|                         	|         	|
-| 14     	| Friday, November 22, 2024     	| Introduction to analysis of algorithms,Big O                                                               	|                         	| [HW 11](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11_latex.tex)             	|
+| 14     	| Friday, November 22, 2024     	| Introduction to analysis of algorithms,Big O                                                               	| 6.1                        	| [HW 11](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11_latex.tex)             	|
 | 15     	| Monday, November 25, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Friday, November 29, 2024     	| Fall break - No classes                                             	|                         	|              	|
-| 16     	| Monday, December 2, 2024      	| Properties of Big O                                                 	|                         	|         	|
-| 16     	| Wednesday, December 4, 2024   	| Worst case runtime analysis                                         	|                         	|              	|
-| 16     	| Friday, December 6, 2024      	| Analysis of recursive algorithms                                    	|                         	|              	|
-| 17     	| Monday, December 9, 2024      	| Review                                                              	|                         	|              	|
+| 16     	| Monday, December 2, 2024      	| Properties of Big O                                                 	| 6.2                        	|         	|
+| 16     	| Wednesday, December 4, 2024   	| Worst case runtime analysis                                         	| 6.3                        	|              	|
+| 16     	| Friday, December 6, 2024      	| Analysis of recursive algorithms                                    	| 6.4                        	|              	|
+| 17     	| Monday, December 9, 2024      	|                                                               	|                         	|              	|
 | 17     	| Wednesday, December 11, 2024  	| Quiz 3                                                              	|                         	| 		|
 | 17     	| Friday, December 13, 2024     	| End of semester                                                     	|                         	|              	|
 |        	| Monday, December 16, 2024     	|                                                                     	|                         	|              	|
