@@ -50,7 +50,7 @@ The schedule is subject to change.
 | 15     	| Wednesday, November 27, 2024  	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Friday, November 29, 2024     	| Fall break - No classes                                             	|                         	|              	|
 | 16     	| Monday, December 2, 2024      	| [Big O](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture39/BigO.pdf)                                                 	| 6.2                        	|         	|
-| 16     	| Wednesday, December 4, 2024   	| Worst case runtime analysis                                         	| 6.3                        	|              	|
+| 16     	| Wednesday, December 4, 2024   	| [Properties of Big O and Worst case runtime analysis](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture40/Properties%20of%20Big%20O.pdf)                                         	| 6.3                        	|              	|
 | 16     	| Friday, December 6, 2024      	| Analysis of recursive algorithms                                    	| 6.4                        	|              	|
 | 17     	| Monday, December 9, 2024      	|                                                               	|                         	|              	|
 | 17     	| Wednesday, December 11, 2024  	| Quiz 3                                                              	|                         	| 		|
