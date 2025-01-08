@@ -3,7 +3,7 @@ CSCI 246: Discrete Structures
 
 ## Course schedule
 The schedule is subject to change.
-| Week # 	| Date                          	| Lectrure topic                                                      	| Recommended reading     	| Homeword due 	|
+| Week # 	| Date                          	| Lectrure topic                                                      	| Recommended reading     	| Homework due 	|
 |--------	|-------------------------------	|---------------------------------------------------------------------	|-------------------------	|--------------	|
 | 1      	| Wednesday, August 21, 2024    	| Course intro and Syllabus                                           	|                         	|              	|
 | 1      	| Friday, August 23, 2024       	| [Prepositions, Proof, Direct proofs](https://github.com/adiesha/CSCI246Fall2024/tree/master/Notes/Lecture02)                          	| 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
